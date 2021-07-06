@@ -1,0 +1,46 @@
+.food-list{
+    display: flex;
+    width: 100%;
+    
+}  
+.img-first{
+    border: 10px solid;
+    border-radius: 10px;
+    border-color:blue0px solid;
+    border-radius: 4px;
+    border-color: rgb(29, 29, 214);
+   padding: 10px;
+    margin: 20px;}
+.img-sec{
+    border: 10px solid;
+    border-radius: 10px;
+    border-color:blue0px solid;
+    border-radius: 4px;
+    border-color: rgb(29, 29, 214);
+    padding: 10px;
+    margin: 20px;
+}
+.img-thred{
+    border: 10px solid;
+    border-radius: 10px;
+    border-color:blue0px solid;
+    border-radius: 4px;
+    border-color: rgb(29, 29, 214);
+    padding: 10px;
+    margin: 20px;}
+.img-first img{
+    
+}
+.header{
+    text-align: center;
+    
+
+}
+.header h1{
+    font-size: 26px;
+    color: cadetblue;
+
+}
+.header p{
+
+}
